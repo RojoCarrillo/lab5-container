@@ -15,8 +15,7 @@ data
 manejando_container.sh
 output_manejando_container.sh
 singularity
-submit_eval_singularity.sh
-					
+
 El path del directorio que estamos viendo
 /home/alumno22/lab5-container
 					
@@ -35,6 +34,7 @@ Start
 Number of generated k-mers: 67108864
 Finish!
 
-real	0m0,732s
-user	0m0,614s
-sys	0m0,078s
+real	0m0,735s
+user	0m0,611s
+sys	0m0,087s
+
