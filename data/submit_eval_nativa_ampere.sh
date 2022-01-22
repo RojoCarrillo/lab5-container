@@ -33,6 +33,10 @@ echo "Programa k-mers13"
 time ./k-mer13
 
 echo "                                    "
+<<<<<<< HEAD
 echo "Programa k-mers13"
+=======
+echo "Programa k-mers14"
+>>>>>>> 8528a19a7b09c17ab1f79d9d0d4a0b667aaebc25
 time ./k-mer14
 
