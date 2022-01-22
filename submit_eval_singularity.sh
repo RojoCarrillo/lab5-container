@@ -6,11 +6,7 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --mail-type=END #END/START/NONE
 #SBATCH --mail-user=juanjose.rojoc@um.es
-<<<<<<< HEAD
 #SBATCH --output=resultado2.txt
-=======
-#SBATCH --output=output_manejando_container.sh
->>>>>>> 879cc79dc079c690d531432b80b07ce4b47b9cd7
 
 # Affinity
 #export KMP_AFFINITY=granularity=fine,compact
