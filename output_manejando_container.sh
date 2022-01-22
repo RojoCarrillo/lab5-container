@@ -15,7 +15,7 @@ data
 manejando_container.sh
 output_manejando_container.sh
 singularity
-					
+
 El path del directorio que estamos viendo
 /home/alumno22/lab5-container
 					
@@ -37,3 +37,4 @@ Finish!
 real	0m0,735s
 user	0m0,611s
 sys	0m0,087s
+
