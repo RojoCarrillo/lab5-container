@@ -33,6 +33,6 @@ echo "Programa k-mers13"
 time ./k-mer13
 
 echo "                                    "
-echo "Programa k-mers13"
+echo "Programa k-mers14"
 time ./k-mer14
 

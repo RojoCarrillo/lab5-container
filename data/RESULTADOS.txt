@@ -28,7 +28,7 @@ real	0m0,565s
 user	0m0,564s
 sys	0m0,000s
                                     
-Programa k-mers13
+Programa k-mers14
 Start
 Number of generated k-mers: 268435456
 Finish!
